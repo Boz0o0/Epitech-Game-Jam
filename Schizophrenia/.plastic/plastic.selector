@@ -1,0 +1,4 @@
+repository "Schizophrenia/Schizophrenia@20067386643311@cloud"
+  path "/"
+    br "/main"
+    co "/main"
