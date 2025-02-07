@@ -1,15 +1,11 @@
 # Epitech-Game-Jam: Illusion
 
-![Game Logo](path_to_logo_image) <!-- Replace with your game logo if available -->
-
 ## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -17,10 +13,7 @@ This project is our entry for the 2025 Epitech game jam. The theme for this year
 
 ## Features
 
-- **Immersive Horror Experience**: Dive into a world where nothing is as it seems.
-- **Mind-Bending Puzzles**: Solve puzzles that challenge your perception and logic.
-- **Stunning Visuals**: High-quality graphics and visual effects to enhance the illusion.
-- **Atmospheric Soundtrack**: A chilling soundtrack that sets the mood and intensifies the horror.
+- **Yet to come**
 
 ## Installation
 
@@ -55,6 +48,3 @@ git lfs pull
 1. Make sure Git LFS is installed and set up
 2. Pull the latest changes from the repository
 3. Open the project in Unity and start developing!
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
