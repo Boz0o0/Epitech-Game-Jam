@@ -19,7 +19,7 @@ This project is our entry for the 2025 Epitech game jam. The theme for this year
 
 ### Prerequisites
 
-- [Unity](https://unity3d.com/get-unity/download) (Version X.X.X or later)
+- [Unity](https://unity3d.com/get-unity/download) (Version 6000.0.37f1)
 - [Git](https://git-scm.com/)
 - [Git LFS](https://git-lfs.github.com/)
 
