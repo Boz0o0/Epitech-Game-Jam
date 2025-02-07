@@ -1,4 +1,4 @@
-# Unity generated files
+# Unity generated
 Schizophrenia/[Ll]ibrary/
 Schizophrenia/[Tt]emp/
 Schizophrenia/[Oo]bj/
@@ -6,43 +6,10 @@ Schizophrenia/[Bb]uild/
 Schizophrenia/[Bb]uilds/
 Schizophrenia/[Ll]ogs/
 Schizophrenia/[Uu]ser[Ss]ettings/
-
-# Package Cache specifically
 Schizophrenia/Library/PackageCache/
-Schizophrenia/Library/PackageCache/**
 
-# VS/Rider/VS Code
+# VS/Rider
 .vs/
-.vscode/
 .idea/
 *.csproj
-*.unityproj
 *.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-
-# Unity3D generated meta files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-
-# Unity3D generated file on crash reports
-sysinfo.txt
-
-# Builds
-*.apk
-*.aab
-*.unitypackage
-*.app
-
-# Crashlytics generated file
-crashlytics-build.properties
